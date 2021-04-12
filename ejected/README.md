@@ -1,3 +1,9 @@
+# Current CRA follow-up (create-react-app)
+
+Keeping track of the current version of the create-react-app, but with an " `ejected/*` insider, which is an ejected version of the current update.
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
